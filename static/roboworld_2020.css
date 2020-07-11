@@ -1,0 +1,116 @@
+#navigation {
+    
+    background-color: #1A1110;
+    color: azure
+}
+
+
+
+#main_content {
+    
+    background-color:#000000;
+    margin-top: 25px;
+    color: aliceblue
+    }
+
+
+
+#main_content_index {
+    
+    background-color:#000000;
+    margin-top: 400px;
+    color: aliceblue
+    }
+
+
+
+
+#stopka {
+      background-color: #1A1110;
+      color: aliceblue
+    
+}
+
+
+#caruzela {
+     background-color: #000000;
+     margin-top: 65px;
+    
+}
+
+
+
+
+
+
+
+
+#body {
+    background-color: #1A1110;
+    
+    
+    
+}
+
+#whole_website {
+     background-color: #000000;
+    
+}
+
+
+
+#navigation_text {
+    color: aliceblue;
+    
+    
+}
+
+#navbarDropdown {
+    
+    color: aliceblue;
+}
+
+
+#ikonki {
+    
+    align-content: center;
+    text-align: center;
+    background-color: snow
+    
+    
+}
+
+a {
+    color: aliceblue
+    
+    
+}
+
+
+
+
+img {
+    margin-top: 5%;
+    margin-bottom:2%; 
+    transition: all 2s, transform .5s, box-shadow .5s; 
+    
+    
+}
+
+img:hover {
+    
+    box-shadow: 6px 6px 20px rgba(0,0,0,.6);
+    transform: scale(1.02)
+        
+}
+#carouselExampleIndicators {
+    
+    border-color: aqua
+}
+   
+
+
+
+
+
+
